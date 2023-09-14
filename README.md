@@ -1,2 +1,2 @@
-Hi there ✨ /n
+### Hi there ✨
 I am a Data Science Major at BYU!
